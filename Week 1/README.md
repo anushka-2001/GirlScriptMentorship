@@ -1,6 +1,6 @@
 Hello everyone! :)
 
-Welcome to Week 1! 
+## Welcome to Week 1! 
 
 In this week, we will cover,
 
